@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scrabble Solver
+title: Mongo Forum Project
 ---
 A forum web application using the MEAN stack. Created for the class [web application security](http://websec.prof.ninja)
 
